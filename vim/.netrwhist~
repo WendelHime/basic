@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/media/wotan/Windows8_OS/Users'
+let g:netrw_dirhist_2='/media/wotan/Windows8_OS/Users/Wendel'
+let g:netrw_dirhist_3='/media/wotan/Windows8_OS/Users/Wendel/Documents'
+let g:netrw_dirhist_4='/var/log/tor'
+let g:netrw_dirhist_5='/home/wotan/.oh-my-zsh'
